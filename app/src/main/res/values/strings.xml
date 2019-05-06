@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CEM300Assignment</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">Recent 5 days</string>
+</resources>
