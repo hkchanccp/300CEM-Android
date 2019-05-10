@@ -2,4 +2,11 @@
     <string name="app_name">CEM300Assignment</string>
     <string name="tab_text_1">Today</string>
     <string name="tab_text_2">Recent 5 days</string>
+    <string name="tab_text_wind">wind</string>
+    <string name="tab_text_pressure">pressure</string>
+    <string name="tab_text_Humidity">Humidity</string>
+    <string name="tab_text_Sunrise">Sunrise</string>
+    <string name="tab_text_Sunset">Sunset</string>
+    <string name="tab_text_Geocoords">Geo coords</string>
+    <string name="tab_text_5weather">Recent 5 days weather</string>
 </resources>

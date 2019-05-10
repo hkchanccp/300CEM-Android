@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CEM300Assignment</string>
+    <string name="tab_text_1">今日</string>
+    <string name="tab_text_2">未來 5 日</string>
+    <string name="tab_text_5weather">未來 5 日天氣</string>
+    <string name="tab_text_wind">風</string>
+    <string name="tab_text_pressure">氣壓</string>
+    <string name="tab_text_Humidity">濕度</string>
+    <string name="tab_text_Sunrise">日出</string>
+    <string name="tab_text_Sunset">日落</string>
+    <string name="tab_text_Geocoords">地理坐標</string>
+</resources>
